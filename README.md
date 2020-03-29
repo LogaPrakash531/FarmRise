@@ -1,2 +1,2 @@
-# FarmRise
-Ecommerce platform
+# weather-app
+Weather app with darksky api.
